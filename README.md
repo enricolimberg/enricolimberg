@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @enricolimberg
-- 👀 I’m interested in travel and tourism industry. Ever since I was young, I have been planning trips and itinerary for my family trips overseas. I am also an individual who is always curious about new things and always keen to learn and master them.
-- 🌱 I’m currently learning to improve my ability in both speaking, reading, and writing Chinese character. I recently graduated from University of Technology Sydney with major in Accounting and Finance.
-- 📫 How to reach me? You can reach me through my email: enricolimberg@icloud.com
+- 🌍 I have a deep passion for the travel and tourism industry, having planned overseas family trips and itineraries since I was young.
+- 🎓 I’m in my last semester at Singapore Management University, pursuing a master’s degree in Business IT with a focus on Financial Technology and Analytics. I previously graduated from the University of Technology Sydney with a double major in Accounting and Finance.
+- 💼 Currently exploring IT sales roles, alongside expanding my knowledge in tech.
+- 📚 Always curious, I’m enhancing my Chinese skills to a professional level.
+- 📫 You can reach me at: limbergenrico@gmail.com
 
 <!---
 enricolimberg/enricolimberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
